@@ -9,5 +9,8 @@ Before running the code, make sure you have the following prerequisites installe
 Python 3.x
 Required Python libraries (You can install them using `pip install <library_name>`):
 `plotly`
+
 `sympy`
+
 `phe`
+

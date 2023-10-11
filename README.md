@@ -8,9 +8,18 @@ Before running the code, make sure you have the following prerequisites installe
 
 Python 3.x
 Required Python libraries (You can install them using `pip install <library_name>`):
+
 `plotly`
 
 `sympy`
 
 `phe`
 
+### Getting Started
+
+Clone this repository:
+
+```bash
+git clone https://github.com/harisiqbal10/Project-3-secret-sharing.git
+cd Project-3-secret-sharing
+```

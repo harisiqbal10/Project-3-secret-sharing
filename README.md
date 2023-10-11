@@ -41,3 +41,15 @@ Modify `secret` in the `shamir_secret_sharing` function if you want to use a dif
 ### Running the Experiment
 
 Within the Jupyter Notebook, run each cell in the notebook sequentially. The notebook will execute the experiment for each SMPC approach and collect average runtimes for each `n`.
+
+### Viewing Results
+
+The Jupyter Notebook will display four plots:
+
+1. **No Privacy Protection SMPC Runtime Plot**: This plot shows the average runtimes for the "No Privacy Protection" approach.
+
+2. **Shamir's Secret Sharing SMPC Runtime Plot**: This plot shows the average runtimes for the "Shamir's Secret Sharing" approach.
+
+3. **Paillier Encryption SMPC Runtime Plot**: This plot shows the average runtimes for "Paillier Encryption" approach.
+
+4. **Combined Runtimes Plot**: A combined plot that displays all three approaches for comparison.

@@ -40,7 +40,7 @@ Modify `secret` in the `shamir_secret_sharing` function if you want to use a dif
 
 ### Running the Experiment
 
-Within the Jupyter Notebook, run each cell in the notebook sequentially. The notebook will execute the experiment for each SMPC approach and collect average runtimes for each `n`.
+Within the Jupyter Notebook, run each cell in the notebook sequentially. The notebook will execute the experiment for each SMPC approach and collect average runtimes for each `n`. If interruption occurs, please select `Restart & Run All`.
 
 ### Viewing Results
 
